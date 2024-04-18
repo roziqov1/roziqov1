@@ -9,7 +9,7 @@
 
 <!--ANIMATED WELCOME TEXT -->
 <p align="center">
-    <a href="https://github.com/roziqov1011/readme-typing-svg">
+    <a href="https://github.com/roziqov1/readme-typing-svg">
         <img
                 src="https://readme-typing-svg.herokuapp.com/?lines=M%20E%20R%20N%20Developer;More%20than%20a%20year%20of%20experience;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=380&height=45"></a>
 </p>
@@ -17,9 +17,9 @@
 
 ## 🙋‍♂️ Connect with me
 
-<!-- Badges template - https://github.com/clevercoderr -->
+<!-- Badges template - https://github.com/roziqov1 -->
 <p align="center">
-    <a href="https://github.com/roziqov1011">
+    <a href="https://github.com/roziqov1">
         <img alt="Github"
              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <!--     <a href="https://www.linkedin.com/in/rozivoy-rozikov-a64761218/">
@@ -28,7 +28,7 @@
     <a href="https://stackoverflow.com/users/16577554/roziqov">
         <img alt="Stackowerflow"
              src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-     <a href="https://app.netlify.com/teams/roziqov1011/overview">
+     <a href="https://app.netlify.com/teams/roziqov1/overview">
         <img alt="Netlify"
              src="https://img.shields.io/badge/netlify-2EC866?style=for-the-badge&logo=netlify&logoColor=white"></a>
     <a href="https://vercel.com/new">
@@ -46,10 +46,10 @@
 
 ## 📊 Github stats
 <p>
-    <a align="center" href="https://github-readme-stats.vercel.app/api?username=roziqov1011&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="roziqov1011 Github Stats"
-                    src="https://github-readme-stats.vercel.app/api?username=roziqov1011&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  <a align="center" href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=roziqov1011&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
-    <img alt="roziqov1011 Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=roziqov1011&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+    <a align="center" href="https://github-readme-stats.vercel.app/api?username=roziqov1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="roziqov1 Github Stats"
+                    src="https://github-readme-stats.vercel.app/api?username=roziqov1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+  <a align="center" href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=roziqov1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
+    <img alt="roziqov1 Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=roziqov1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
 </p>
 
 
