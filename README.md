@@ -64,7 +64,9 @@
         <img alt="js"
              src="https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=000"></a>
 
-
+        <a href="#">
+        <img alt="js"
+             src="https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=000"></a>
 </p>
 
 
